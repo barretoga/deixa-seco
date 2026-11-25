@@ -1,0 +1,6 @@
+target/
+.sdd/
+*.pdb
+docs/design.md
+docs/plans/
+docs/decisoes-implementacao.md
