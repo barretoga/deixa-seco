@@ -8,7 +8,7 @@
 
 ![Treemap of a drive, colored by the kind of content each folder holds](docs/images/map.png)
 
-*Screenshots have file names, paths and sizes blurred on purpose.*
+*Folder names and paths in the screenshots are pixelated on purpose.*
 
 ## Features
 
@@ -166,7 +166,7 @@ cargo test --release --test mft -- --ignored --nocapture
 | `src/insights/` | Suggestion rules: known caches, dev artifacts, programs, Store apps, virtualization |
 | `src/cleanup.rs` | Protection checks and execution of every cleanup action |
 | `src/ui/` | egui screens: drive list, map, navigation, search, suggestions, confirmation |
-| `docs/images/` | Screenshots used in this README (file and folder names are blurred) |
+| `docs/images/` | Screenshots used in this README (folder names and paths are pixelated) |
 
 ## Inspiration
 
